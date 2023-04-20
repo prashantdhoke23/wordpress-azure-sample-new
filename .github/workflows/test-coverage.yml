@@ -86,7 +86,7 @@ jobs:
       # dependency versions are installed and cached.
       ##
       - name: Set up PHP
-        uses: shivammathur/setup-php@8e2ac35f639d3e794c1da1f28999385ab6fdf0fc # v2.23.0
+        uses: shivammathur/setup-php@cb8f453143149404c7fd670b5f37c91d395b3054 # v2.25.1
         with:
           php-version: '7.4'
           coverage: none
